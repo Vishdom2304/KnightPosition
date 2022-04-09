@@ -3,6 +3,6 @@ A JavaScript Program to take input from the user regarding the postion of knight
 
 How to test it locally :- 
 1) Clone the repository
-2) Run npm install to install all dependencies. 
+2) Run npm install to install all dependencies (i.e. readline-sync)
 3) Test the javascript code locally on your machine by giving the coordinates of the knight as input.
 
